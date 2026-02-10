@@ -21,11 +21,11 @@
     ```
 
     ```cmd
-    conda activate us_visa\
+    conda activate us_visa
     ```
 
 4. Install the required Dependendcies:
 
     ```cmd
-    pip install requirements.txt
+    pip install -r requirements.txt
     ```
